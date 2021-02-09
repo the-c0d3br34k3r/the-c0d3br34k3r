@@ -41,10 +41,7 @@
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="the-c0d3br34k3r's's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=the-c0d3br34k3r&show_icons=true&hide_border=true" />
-</details>
+  <img align="left" alt="the-c0d3br34k3r's's Github Stats" src="https://github-readme-stats.vercel.app/api?username=the-c0d3br34k3r&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
 
 [website]: https://codeSTACKr.com
 
