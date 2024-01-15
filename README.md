@@ -40,9 +40,20 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
-<br />
 
----
+### Publications
+#### Scientific Papers
+[[Google Scholar Profile]](https://scholar.google.ca/citations?hl=en&user=fSxQR8kAAAAJ&view_op=list_works&gmla=AH70aAWgso_ovzpgdQjGdzUTZWKE52sgkmvoJlncUVvlb8sEkwR2r_pW98wm2zTiT9ugiaZwQU7yQkhDRbviPRX9)
+ - [R. Mohan, V. Vaidehi, Ajay Krishna A, Mahalakshmi M and S. S. Chakkaravarthy, "Complex Event Processing based Hybrid Intrusion Detection System," 2015 3rd International Conference on Signal Processing, Communication and Networking (ICSCN), Chennai, India, 2015, pp. 1-6, doi: 10.1109/ICSCN.2015.7219827.](https://ieeexplore.ieee.org/document/7219827)
+
+#### Articles
+ - [Countering rabbit holes at work](https://www.linkedin.com/pulse/countering-rabbit-holes-work-ranjan-mohan/?trackingId=1hIB0jISQrGlOrQrz6I2jg%3D%3D)
+
+### Presentations
+ - Debugging JVM performance issues [[Video]](https://youtu.be/DWBIDrAi4zo?si=JRdxNHDxSAiYuHYl) | [[Slides]](https://docs.google.com/presentation/d/e/2PACX-1vRIOScm-brw47Z_zSIjn2z3ASGawZadyEFT3Rww8cIGB6xBQUqXr5bbriF2BdtDka-1bLdtoxsT2IEL/pub?start=false&loop=false&delayms=3000) | [[Code]](https://github.com/padaiyal/jVaidhiyar/wiki/Debugging-Java-performance-issues)
+ - Python - Best practices [[Video]](https://youtu.be/ioFwOt3_aWg?si=feMjNxKituHHZ1cf) | [[Code]](https://github.com/padaiyal/pyWiki)
+ - Go - Best practices [[Video]](https://youtu.be/jKKJ_yXhXVg?si=2dtKD42a9Zvgf5fQ) | [[Code]](https://github.com/padaiyal/goWiki)
+<br><br>
 
   <img align="left" alt="the-c0d3br34k3r's's Github Stats" src="https://github-readme-stats.vercel.app/api?username=the-c0d3br34k3r&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
 
@@ -64,3 +75,4 @@
 [css3_repos]: https://github.com/search?q=topic%3Acss3+user%3Athe-c0d3br34k3r&type=Repositories
 
 [linkedin]: https://www.linkedin.com/in/ranjanmj/
+
