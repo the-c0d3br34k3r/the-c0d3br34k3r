@@ -48,18 +48,18 @@
 
 [website]: https://codeSTACKr.com
 
-[java_repos]: https://github.com/search?q=language%3Ajava+author%3Athe-c0d3br34k3r+type%3Apr&type=issues
-[python_repos]: https://github.com/search?q=language%3Apython+author%3Athe-c0d3br34k3r+type%3Apr&type=issues
-[go_repos]: https://github.com/search?q=language%3Ago+author%3Athe-c0d3br34k3r+type%3Apr&type=issues
-[c_repos]: https://github.com/search?q=language%3AC+author%3Athe-c0d3br34k3r+type%3Apr&type=issues
-[cpp_repos]: https://github.com/search?q=language%3AC%2B%2B+author%3Athe-c0d3br34k3r+type%3Apr&type=issues
+[java_repos]: https://github.com/search?q=language%3Ajava+author%3Athe-c0d3br34k3r+type%3Apr&type=issues&s=comments&o=desc
+[python_repos]: https://github.com/search?q=language%3Apython+author%3Athe-c0d3br34k3r+type%3Apr&type=issues&s=comments&o=desc
+[go_repos]: https://github.com/search?q=language%3Ago+author%3Athe-c0d3br34k3r+type%3Apr&type=pullrequests&s=comments&o=desc
+[c_repos]: https://github.com/search?q=language%3Ac+author%3Athe-c0d3br34k3r+type%3Apr&type=pullrequests&s=comments&o=desc
+[cpp_repos]: https://github.com/search?q=language%3AC%2B%2B++author%3Athe-c0d3br34k3r+type%3Apr&type=pullrequests&s=comments&o=desc
 
 
 [postgresql_repos]: https://github.com/search?q=topic%3Apostgresql+user%3Athe-c0d3br34k3r&type=Repositories
 [mysql_repos]: https://github.com/search?q=language%3Amysql+author%3Athe-c0d3br34k3r+type%3Apr&type=issues
 [elasticsearch_repos]: https://github.com/search?q=topic%3Aelasticsearch+user%3Athe-c0d3br34k3r&type=Repositories
 [react_repos]: https://github.com/search?q=topic%3Areact+user%3Athe-c0d3br34k3r&type=Repositories
-[javascript_repos]: https://github.com/search?q=topic%3Ajavascript+user%3Athe-c0d3br34k3r&type=Repositories
+[javascript_repos]: https://github.com/search?q=language%3AJavaScript++author%3Athe-c0d3br34k3r+type%3Apr&type=pullrequests&s=comments&o=desc
 [html5_repos]: https://github.com/search?q=topic%3Ahtml5+user%3Athe-c0d3br34k3r&type=Repositories
 [css3_repos]: https://github.com/search?q=topic%3Acss3+user%3Athe-c0d3br34k3r&type=Repositories
 
