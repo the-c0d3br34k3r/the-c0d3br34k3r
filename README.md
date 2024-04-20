@@ -11,8 +11,14 @@
 - ⚡ Fun fact: I love to travel 🌎, explore new cultures and cuisines 🍱🥟🍛🍜🧆🌮🥪🍰
 - To connect with me : <br> [<img align="left" alt="Ranjan | LinkedIn" width="30px" src="LinkedIn_icon.png" />][linkedin]
 
-<br />
+<br>
+<div display="flex">
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-c0d3br34k3r&theme=tokyonight"/> 
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=the-c0d3br34k3r&theme=tokyonight"/> 
+</div>
 
+<br />
+<!--
 ### Languages and Tools:
 #### Backend 
 [<img align="left" alt="Java" width="18px" src="https://www.stackean.com/wp-content/uploads/2020/12/java.png" />][java_repos]
@@ -40,7 +46,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
-<!--
 ### Publications
 #### Scientific Papers
 [[Google Scholar Profile]](https://scholar.google.ca/citations?hl=en&user=fSxQR8kAAAAJ&view_op=list_works&gmla=AH70aAWgso_ovzpgdQjGdzUTZWKE52sgkmvoJlncUVvlb8sEkwR2r_pW98wm2zTiT9ugiaZwQU7yQkhDRbviPRX9)
@@ -54,8 +59,8 @@
  - Python - Best practices [[Video]](https://youtu.be/ioFwOt3_aWg?si=feMjNxKituHHZ1cf) | [[Code]](https://github.com/padaiyal/pyWiki)
  - Go - Best practices [[Video]](https://youtu.be/jKKJ_yXhXVg?si=2dtKD42a9Zvgf5fQ) | [[Code]](https://github.com/padaiyal/goWiki)
 <br><br>
+<img align="left" alt="the-c0d3br34k3r's's Github Stats" src="https://github-readme-stats.vercel.app/api?username=the-c0d3br34k3r&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
 -->
-  <img align="left" alt="the-c0d3br34k3r's's Github Stats" src="https://github-readme-stats.vercel.app/api?username=the-c0d3br34k3r&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
 
 [website]: https://codeSTACKr.com
 
