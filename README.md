@@ -2,7 +2,7 @@
 
 ### I'm a Cybersecurity Enthusiast 🛡️ and a Software Developer!
 - ✨ I’m looking to collaborate with other open source projects, especially technologies I'm familiar with or am currently learning!
-- 🥅 2024 Goals: Contribute more to open Source projects.
+- 🥅 2024 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to travel 🌎, explore new cultures and cuisines 🍱🥟🍛🍜🧆🌮🥪🍰
 - To connect with me : <br> [<img align="left" alt="Ranjan | LinkedIn" width="30px" src="LinkedIn_icon.png" />][linkedin]
 
