@@ -1,5 +1,4 @@
 ## Hello there 👋 Welcome to Ranjan's GitHub profile 
-<br>
 
 ### I'm a Cybersecurity Enthusiast 🛡️ and a Software Developer!
 - ✨ I’m looking to collaborate with other open source projects, especially technologies I'm familiar with or am currently learning!
