@@ -2,7 +2,7 @@
 
 ### I'm a Cybersecurity Enthusiast 🛡️ and a Software Developer!
 - ✨ I’m looking to collaborate with other open source projects, especially technologies I'm familiar with or am currently learning!
-- 🥅 2024 Goals: Contribute more to Open Source projects.
+- 🥅 2025 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to travel 🌎, explore new cultures and cuisines 🍱🥟🍛🍜🧆🌮🥪🍰
 - To connect with me : <br> [<img align="left" alt="Ranjan | LinkedIn" width="30px" src="LinkedIn_icon.png" />][linkedin]
 
@@ -13,15 +13,15 @@
 </div>
 
 <br />
-<!--
-### Languages and Tools:
-#### Backend 
-[<img align="left" alt="Java" width="18px" src="https://www.stackean.com/wp-content/uploads/2020/12/java.png" />][java_repos]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python_repos]
-[<img align="left" alt="Go" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" />][go_repos]
-[<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />][c_repos]
-[<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />][cpp_repos]
 
+### Work
+[<img align="left" alt="Java" width="18px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />][java_prs]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python_prs]
+[<img align="left" alt="Go" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" />][go_prs]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript_prs]
+[<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />][c_prs]
+[<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />][cpp_prs]
+<!--
 [<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][postgresql_repos]
 [<img align="left" alt="MySQL" width="26px" src="https://i0.wp.com/www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png?fit=600%2C400&ssl=1" />][mysql_repos]
 [<img align="left" alt="ElasticSearch" width="26px" src="https://raw.githubusercontent.com/github/explore/d73b58ded658144cd29547485b8537306012eb86/topics/elasticsearch/elasticsearch.png" />][elasticsearch_repos]
@@ -57,13 +57,12 @@
 <img align="left" alt="the-c0d3br34k3r's's Github Stats" src="https://github-readme-stats.vercel.app/api?username=the-c0d3br34k3r&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
 -->
 
-[website]: https://codeSTACKr.com
-
-[java_repos]: https://github.com/search?q=language%3Ajava+author%3Athe-c0d3br34k3r+type%3Apr&type=issues&s=comments&o=desc
-[python_repos]: https://github.com/search?q=language%3Apython+author%3Athe-c0d3br34k3r+type%3Apr&type=issues&s=comments&o=desc
-[go_repos]: https://github.com/search?q=language%3Ago+author%3Athe-c0d3br34k3r+type%3Apr&type=pullrequests&s=comments&o=desc
-[c_repos]: https://github.com/search?q=language%3Ac+author%3Athe-c0d3br34k3r+type%3Apr&type=pullrequests&s=comments&o=desc
-[cpp_repos]: https://github.com/search?q=language%3AC%2B%2B++author%3Athe-c0d3br34k3r+type%3Apr&type=pullrequests&s=comments&o=desc
+[java_prs]: https://github.com/search?q=is%3Apr+author%3Athe-c0d3br34k3r+author%3Athe-c0d3br34k3r+language%3AJava&type=pullrequests
+[python_prs]: https://github.com/search?q=is%3Apr+author%3Athe-c0d3br34k3r+author%3Athe-c0d3br34k3r+language%3APython&type=pullrequests
+[go_prs]: https://github.com/search?q=is%3Apr+author%3Athe-c0d3br34k3r+author%3Athe-c0d3br34k3r+language%3AGo&type=pullrequests
+[javascript_prs]: https://github.com/search?q=is%3Apr+author%3Athe-c0d3br34k3r+author%3Athe-c0d3br34k3r+language%3AJavaScript&type=pullrequests
+[c_prs]: https://github.com/search?q=is%3Apr+author%3Athe-c0d3br34k3r+author%3Athe-c0d3br34k3r+language%3AC&type=pullrequests
+[cpp_prs]: https://github.com/search?q=is%3Apr+author%3Athe-c0d3br34k3r+author%3Athe-c0d3br34k3r+language%3AC%2B%2B&type=pullrequests
 
 
 [postgresql_repos]: https://github.com/search?q=topic%3Apostgresql+user%3Athe-c0d3br34k3r&type=Repositories
