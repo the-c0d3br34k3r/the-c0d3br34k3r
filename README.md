@@ -1,9 +1,8 @@
-## Hello there 👋 Welcome to Ranjan's GitHub profile 
+## Hello there 👋 Welcome to my profile 
 
-### I'm a Cybersecurity Enthusiast 🛡️ and a Software Developer!
+### My areas of interest are Cybersecurity and Software development!
 - ✨ I’m looking to collaborate with other open source projects, especially technologies I'm familiar with or am currently learning!
 - 🥅 2025 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to travel 🌎, explore new cultures and cuisines 🍱🥟🍛🍜🧆🌮🥪🍰
 
 <br>
 <div display="flex">
