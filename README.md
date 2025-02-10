@@ -4,7 +4,6 @@
 - ✨ I’m looking to collaborate with other open source projects, especially technologies I'm familiar with or am currently learning!
 - 🥅 2025 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to travel 🌎, explore new cultures and cuisines 🍱🥟🍛🍜🧆🌮🥪🍰
-- To connect with me : <br> [<img align="left" alt="Ranjan | LinkedIn" width="30px" src="LinkedIn_icon.png" />][linkedin]
 
 <br>
 <div display="flex">
